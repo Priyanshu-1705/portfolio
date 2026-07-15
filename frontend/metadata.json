@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Priyanshu Gangwar Portfolio",
+  "description": "Developer portfolio for Priyanshu Gangwar, featuring timeline, projects, dynamic mock terminal, interactive skills, resume viewer, and secure contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
