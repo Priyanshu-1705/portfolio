@@ -17,14 +17,14 @@ const MOCK_PROJECTS = [
     order: 1
   },
   {
-    _id: "fallback-mission-academy",
-    name: "Mission Academy CMS",
-    tag: "School Management System",
-    description: "A school content management system with 55+ RESTful APIs across 11 backend modules, JWT authentication, role-based access control, and Cloudinary-based media management, built on an MVC architecture with 11 MongoDB models.",
+    _id: "fallback-quickchat",
+    name: "QuickChat",
+    tag: "Real-Time Chat Application",
+    description: "A full-stack real-time chat application built with the MERN stack and Socket.IO — JWT authentication, live online/offline presence, unseen message counts, and Cloudinary-hosted profile pictures.",
     thumbnail: "",
     screenshots: [],
-    stack: ["React", "Node.js", "Express", "MongoDB", "JWT", "RBAC", "Cloudinary", "MVC"],
-    githubUrl: "https://github.com/Priyanshu-1705",
+    stack: ["React", "Node.js", "Express", "MongoDB", "Socket.IO", "JWT", "Cloudinary", "Tailwind CSS"],
+    githubUrl: "https://github.com/Priyanshu-1705/QuickChat",
     liveUrl: "",
     featured: true,
     order: 2
@@ -252,7 +252,7 @@ export default function Projects() {
                 // system_status: offline_fallback_loaded
               </h4>
               <p className="font-sans text-xs text-brand-muted-slate leading-relaxed">
-                Could not connect to the live MongoDB API at <code className="text-brand-accent-teal">{apiBaseUrl}/api/projects</code>.
+                Could not connect to the live MongoDB API at <code className="text-brand-accent-teal">{apiBaseUrl}/api/projects</code>. 
                 We have populated the grid below with Priyanshu's verified project cache so you can test and preview the interface seamlessly.
               </p>
             </div>
