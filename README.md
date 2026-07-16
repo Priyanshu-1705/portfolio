@@ -1,6 +1,6 @@
 # priyanshu.dev — Full Stack Portfolio
 
-**🔗 Live:** [your-deployed-url-here.vercel.app](#) *(not yet deployed — update this once frontend is live)*
+🔗 **Live Demo:** [priyanshu-dev-dun.vercel.app](https://priyanshu-dev-dun.vercel.app/)
 
 A full-stack MERN portfolio built to showcase real projects, live coding stats, and a working
 contact pipeline — not just a static page. Frontend is React (Vite), backend is Express + MongoDB.
@@ -18,7 +18,7 @@ stats), LeetCode Stats (live), Timeline, Certificates, Contact (working email fo
 | Backend | Node.js, Express |
 | Database | MongoDB (Atlas) |
 | Email | Nodemailer (Gmail App Password) |
-| Hosting (planned) | Frontend → Vercel/Netlify · Backend → Render/Railway |
+| Hosting (planned) | Frontend → Vercel · Backend → Vercel |
 
 ---
 
