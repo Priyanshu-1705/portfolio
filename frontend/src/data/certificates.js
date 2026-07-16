@@ -1,4 +1,4 @@
-const certificates = [
+export const certificates = [
   {
     title: "Full Stack Development Internship",
     issuer: "Smarted",
