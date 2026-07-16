@@ -18,7 +18,7 @@ stats), LeetCode Stats (live), Timeline, Certificates, Contact (working email fo
 | Backend | Node.js, Express |
 | Database | MongoDB (Atlas) |
 | Email | Nodemailer (Gmail App Password) |
-| Hosting (planned) | Frontend → Vercel/Netlify · Backend → Render/Railway |
+| Hosting (planned) | Frontend → Vercel · Backend → Vercel |
 
 ---
 
