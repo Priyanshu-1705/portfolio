@@ -5,7 +5,7 @@ import { motion } from "motion/react";
 export default function Timeline() {
   const events = [
     {
-      date: "Aug 2024 — Ongoing",
+      date: "Aug 2025",
       title: "Full Stack Web Development Internship",
       subtitle: "SmartED Innovations · Remote",
       type: "work",
